@@ -1,4 +1,6 @@
 //DevTown Assignment
+
+
 🔤 Count of Vowels
 📌 Project Overview
 "Count of Vowels" is a simple yet elegant web application built using HTML, CSS, and JavaScript. This tool takes user input (a string of text) and dynamically counts the number of vowels (A, E, I, O, U) present in the input. The project showcases how basic front-end technologies can be combined to create a useful and interactive web utility.
