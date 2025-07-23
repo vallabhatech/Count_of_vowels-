@@ -8,7 +8,7 @@
 🚀 Features
 🔎 Real-time vowel count as you type
 
-🎨 Responsive and modern user interface
+EGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG🎨 Responsive and modern user interface
 
 🔤 Case-insensitive vowel detection
 
