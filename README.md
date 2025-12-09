@@ -1,64 +1,89 @@
-//DevTown Assignment
+# 🔤 **Count of Vowels**
 
+A clean and simple web app that counts the number of vowels in any text you type.
+Built using **HTML, CSS, and JavaScript**, this project shows how beginners can combine core web technologies to create something interactive and fun.
 
-🔤 Count of Vowels
-📌 Project Overview
-"Count of Vowels" is a simple yet elegant web application built using HTML, CSS, and JavaScript. This tool takes user input (a string of text) and dynamically counts the number of vowels (A, E, I, O, U) present in the input. The project showcases how basic front-end technologies can be combined to create a useful and interactive web utility.
+---
 
-🚀 Features
-🔎 Real-time vowel count as you type
+## 🚀 **Features**
 
-EGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG🎨 Responsive and modern user interface
+* ⌨️ **Real-time vowel counting** as the user types
+* 🔤 **Case-insensitive detection** (A, E, I, O, U)
+* 🎨 **Minimal, responsive UI**
+* ⚡ Lightweight and beginner-friendly
+* 📱 Works on all devices (mobile-first approach)
 
-🔤 Case-insensitive vowel detection
+---
 
-✨ Clean and beginner-friendly codebase
+## 📁 **Project Structure**
 
-📱 Mobile-first design
-
-📁 Project Structure
-bash
-Copy
-Edit
-Count-of-Vowels/
+```
+Count_of_vowels/
 │
-├── index.html         # Main HTML file
-├── style.css          # Styling using CSS
-└── script.js          # JavaScript logic for vowel counting
-🧠 How It Works
-User enters a sentence or word in the input box.
+├── index.html      # Main structure of the page
+├── style.css       # Styling & layout
+└── script.js       # Logic for counting vowels
+```
 
-JavaScript captures the input using an event listener.
+---
 
-Each character is analyzed; if it matches a vowel (a, e, i, o, u – both upper and lowercase), it is counted.
+## 🧠 **How It Works**
 
-The total count is updated and displayed in real-time on the screen.
+1. User types text into the input box.
+2. JavaScript listens for every keystroke.
+3. Each character is checked to see if it’s a vowel (both uppercase & lowercase).
+4. The total number of vowels is updated instantly on the screen.
 
-🛠️ Technologies Used
-HTML5 – Markup for layout and input form
+Simple. Clean. Effective.
 
-CSS3 – For styling and responsiveness
+---
 
-JavaScript (ES6) – Logic for detecting and counting vowels
+## 🛠️ **Technologies Used**
 
-![image](https://github.com/user-attachments/assets/34cb5eb0-78b3-417b-a2f6-607816daa186)
+* **HTML5** – layout & structure
+* **CSS3** – styling & responsiveness
+* **JavaScript (ES6)** – real-time vowel counting logic
 
-🧪 How to Run Locally
-Clone the repository
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/Count-of-Vowels.git
-Open in a browser
+## 🖥️ **Run This Project Locally**
 
-Double-click on index.html
+### **1. Clone the Repository**
 
-Or, open it using Live Server in VS Code
+```bash
+git clone https://github.com/vallabhatech/Count_of_vowels-.git
+```
 
-✅ Sample Output
-makefile
-Copy
-Edit
-Input: Hello World!
-Output: Total Vowels: 3
+### **2. Open the Project**
+
+Just open the file:
+
+```
+index.html
+```
+
+No server required — it works directly in the browser.
+
+*(Or use Live Server in VS Code for convenience.)*
+
+---
+
+## ✅ **Sample Output**
+
+**Input:**
+
+```
+Hello World!
+```
+
+**Output:**
+
+```
+Total Vowels: 3
+```
+---
+
+## 📌 **About**
+
+A simple vowel-counter web tool built for learning and demonstrating basic front-end concepts.
+
